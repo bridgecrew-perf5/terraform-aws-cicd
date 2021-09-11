@@ -2,7 +2,7 @@
 # .tfvars and ALL security keys in production. Those are here only for the benefit of the course and are not in use. 
 # Local .terraform directories
 **/.terraform/*
-
+.terraform.lock.hcl
 # .tfstate files
 **/*.tfstate
 **/*.tfstate.*
