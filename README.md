@@ -1,0 +1,1 @@
+### Any push to the main branch of this repo will trigger terraform cloud to plan the code changes, and then you will have to login and accept
